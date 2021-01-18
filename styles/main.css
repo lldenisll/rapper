@@ -2056,9 +2056,9 @@ h2.title:after {
 }
 
 .biography .biography-image {
-  background: #000 url("../images/projota.png") no-repeat center;
+  background: #000 url("../images/projota2.png") no-repeat center fixed;
+  margin-left: 30px!important;
 }
-
 .biography .biography-image {
   background-size: cover !important;
   background-position: center center !important;
