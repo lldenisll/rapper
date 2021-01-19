@@ -2056,7 +2056,7 @@ h2.title:after {
 }
 
 .biography .biography-image {
-  background: #000 url("../images/projota2.png") no-repeat center fixed;
+  background: #000 url("../images/projota2.png") no-repeat center ;
   margin-left: 30px!important;
 }
 .biography .biography-image {
@@ -4837,6 +4837,9 @@ img {
 
 .parallax-section {
   background-size: cover !important;
+  background-repeat: no-repeat !important;
+
+
 }
 
 .bg-header.header-slider {
