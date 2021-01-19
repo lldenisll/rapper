@@ -216,11 +216,11 @@
 .carousel-caption h2,
 .p-intro-animate a,
 .animate-btn-alt {
-	animation-delay: 2s;
+	animation-delay: 1.8s;
 }
 
 .carousel-caption .animate-btn {
-	animation-delay: 3s;
+	animation-delay: 2.2s;
 }
 
 /* Carousel Fade */

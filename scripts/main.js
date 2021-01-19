@@ -129,7 +129,8 @@ $(document).ready(function(){
     hashchange: false,
     animation: 'fade',
     play: 10000,
-    pagination: true
+    pagination: true,
+
   });
 
   function slidertext() {
